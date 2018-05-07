@@ -16,6 +16,7 @@ public class AppTest
      * @param testName name of the test case   DDD
      * 
      * master 01
+     * master 02
      */
     public AppTest( String testName )
     {
